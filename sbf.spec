@@ -5,7 +5,7 @@ Release:	1
 License:	GPL
 Group:		Applications/System
 Source0:	http://www.codemonkey.org.uk/cruft/sbf.c
-# Source0-md5:	f7d07ddf99e203857bed52b71d9a01be
+# NoSource0-md5:	f7d07ddf99e203857bed52b71d9a01be
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description

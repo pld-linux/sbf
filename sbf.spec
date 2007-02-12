@@ -1,5 +1,5 @@
 Summary:	Simple boot flag support utility
-Summary(pl.UTF-8):   Narzędzie obsługujące flagę prostego bootowania
+Summary(pl.UTF-8):	Narzędzie obsługujące flagę prostego bootowania
 Name:		sbf
 Version:	0.3
 Release:	1

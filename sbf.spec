@@ -1,5 +1,5 @@
 Summary:	Simple boot flag support utility
-Summary(pl):	Narzêdzie obs³uguj±ce flagê prostego bootowania
+Summary(pl.UTF-8):   NarzÄ™dzie obsÅ‚ugujÄ…ce flagÄ™ prostego bootowania
 Name:		sbf
 Version:	0.3
 Release:	1
@@ -16,12 +16,12 @@ system boot speeds. It does this by marking a CMOS field to say
 
 http://www.microsoft.com/hwdev/resources/specs/simp_bios.asp
 
-%description -l pl
+%description -l pl.UTF-8
 Specyfikacja SBF (Simple Boot Flag - flagi prostego bootowania) to
-rozszerzenie BIOS-u x86 pozwalaj±ce na zwiêkszenie szybko¶ci
+rozszerzenie BIOS-u x86 pozwalajÄ…ce na zwiÄ™kszenie szybkoÅ›ci
 bootowania systemu. Jest to realizowane przez ustawianie pola w
-pamiêci CMOS oznaczaj±cego "maszyna uruchomi³a siê poprawnie, mo¿na
-pomin±æ d³ugotrwa³y POST przy nastêpnym reboocie".
+pamiÄ™ci CMOS oznaczajÄ…cego "maszyna uruchomiÅ‚a siÄ™ poprawnie, moÅ¼na
+pominÄ…Ä‡ dÅ‚ugotrwaÅ‚y POST przy nastÄ™pnym reboocie".
 
 http://www.microsoft.com/hwdev/resources/specs/simp_bios.asp
 
